@@ -30,6 +30,12 @@ Object {
         <div
           class="image"
         >
+            author name
+          </div>
+        </div>
+        <div
+          class="image"
+        >
           <img
             src="https://www.fillmurray.com/300/200"
           />
